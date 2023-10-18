@@ -960,13 +960,11 @@ section {
   border-bottom: 1px solid #ececec;
   overflow: hidden;
   background: #fff;
-  height: 100px;
+
 }
 
 .clients .client-logo img {
   transition: all 0.3s ease-in-out;
-  height: 36px;
-  filter: grayscale(100%);
 }
 
 .clients .client-logo:hover img {
